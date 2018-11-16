@@ -48,12 +48,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-11-16T02:29:48+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://example.org/post/</loc>
     <lastmod>2018-11-16T02:29:48+08:00</lastmod>
     <priority>0</priority>
@@ -61,6 +55,12 @@
   
   <url>
     <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-11-16T02:29:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
